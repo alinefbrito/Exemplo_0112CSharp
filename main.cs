@@ -8,8 +8,7 @@ class Program {
     
     //Leia(nome)
     nome = Console.ReadLine();
-    //teste
-    
+     
     
     //Escreval("Hello World")
     Console.WriteLine ("Hello " + nome);
