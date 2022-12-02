@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Exemplo0112CSharp/main.csproj": {}
+    "/workspaces/Exemplo_0112CSharp/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Exemplo0112CSharp/main.csproj": {
+    "/workspaces/Exemplo_0112CSharp/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Exemplo0112CSharp/main.csproj",
+        "projectUniqueName": "/workspaces/Exemplo_0112CSharp/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Exemplo0112CSharp/main.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Exemplo0112CSharp/obj/",
+        "projectPath": "/workspaces/Exemplo_0112CSharp/main.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Exemplo_0112CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/runner/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp6.0"
@@ -43,16 +43,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/jsm5am5i2b2izvwzbw5h6lk3plvpkrlw-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

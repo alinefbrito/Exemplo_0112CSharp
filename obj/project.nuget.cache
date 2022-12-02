@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xiHXkpjSkHPrYDGe6sK23kQ9jF7gEKxmTz0JWTXIqzor2XCzMUktwsRQ3oDJ7nyAc0ok7mmMG/08BMirlvZztQ==",
+  "dgSpecHash": "PyvHfeagU4Uae6tv2VoKEt0sbdPPHbk2zwEgQ1d8HcG3BgKNrxgHWIZEY8ucL0S0x9vJwVEn1GuTeDJTf6MvSQ==",
   "success": true,
-  "projectFilePath": "/home/runner/Exemplo0112CSharp/main.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/Exemplo_0112CSharp/main.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
